@@ -4,7 +4,7 @@ Saturn Switchless Mod PIC Code for a 16F628A using the XC8 compiler
 2016 Adapted from Sebastian Code Maxime Vinzio. 
 Copyright (c) 2004 Sebastian Kienzl <seb@riot.org>
 
-PINOUT:
+#PINOUT:
 
  RB0 used as an EXT interrupt wired to the RESET BUTTON
  RB1 VF PAL if 0 NTSC if 1 (JP1)
